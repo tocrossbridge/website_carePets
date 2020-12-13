@@ -12,7 +12,7 @@ At this project I layout with Figma and, code using HTML, CSS and JS. Enjoy!
 # Quick links &#128150;
 <div>
   
-[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [BACK TO TOP](#My-README-Template)
+[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [BACK TO TOP](#Care-Pets)
 
 <div>
 
@@ -35,6 +35,6 @@ I worked on the layout, but the code itself is in progress yet ^-^
 
 <div>
   
-[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [BACK TO TOP](#My-README-Template)
+[PROJECT SETUP](#Project-setup) &diams; [PREVIEW](#Preview) &diams; [STATUS OF THE PROJECT](#How-is-the-development-of-the-project-right-now) &diams; [BACK TO TOP](#Care-Pets)
 
 <div>
